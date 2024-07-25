@@ -1,0 +1,6 @@
+@innova_project_HostAddress = http://localhost:5062
+
+GET {{innova_project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
